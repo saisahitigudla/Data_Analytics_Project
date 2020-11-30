@@ -12,13 +12,13 @@ We use 2010 and 2012 datasets. DOE Fuel Economy Data:
 https://www.fueleconomy.gov/feg/download.shtml/
 
 # Contents in the code file 'Datalytics_fuel_economy_code_file.ipnyb' :
-Knowing the data attributes
-Data Preprocessing
-Data Visualization
-Training and Testing Data
-Developing the model
-Prediction
-Conclusions
+. Knowing the data attributes
+. Data Preprocessing
+. Data Visualization
+. Training and Testing Data
+. Developing the model
+. Prediction
+. Conclusions
 # Data :
 Folder containing all the datasets before and after cleaning and updation.
 
@@ -26,39 +26,39 @@ Folder containing all the datasets before and after cleaning and updation.
 Python Jupyter Notebook
 
 # Libraries used:
-Numpy
-Seaborn
-Matplotlib
-Pandas
-Pyplot
-Collections
-sklearn.model : train_test_split
-sklearn.preprocessing : StandardScaler
-from sklearn.tree : DecisionTreeRegressor
-from sklearn.linear_model : LinearRegression
-from sklearn.datasets : make_regression
-from sklearn.ensemble : RandomForestRegressor
-from sklearn.neighbors : KNeighborsRegressor
+. Numpy
+. Seaborn
+. Matplotlib
+. Pandas
+. Pyplot
+. Collections
+. sklearn.model : train_test_split
+. sklearn.preprocessing : StandardScaler
+. from sklearn.tree : DecisionTreeRegressor
+. from sklearn.linear_model : LinearRegression
+. from sklearn.datasets : make_regression
+. from sklearn.ensemble : RandomForestRegressor
+. from sklearn.neighbors : KNeighborsRegressor
 
 # Attributes in the datasets:
-Model Year
-Vehicle Manufacturer Name
-Veh Mfr Code
-Represented Test Veh Make
-Represented Test Veh Model
-Test Vehicle ID
-Test Veh Configuration
-Test Veh Displacement (L)
-Actual Tested Testgroup
-Vehicle Type
-Rated Horsepower
-#of Cylinders and Rotors
-Engine Code
-Tested Transmission Type Code
-Tested Transmission Type
-#of Gears
-Transmission Lockup?
-Drive System Code
+. Model Year
+. Vehicle Manufacturer Name
+. Veh Mfr Code
+. Represented Test Veh Make
+. Represented Test Veh Model
+. Test Vehicle ID
+. Test Veh Configuration
+. Test Veh Displacement (L)
+. Actual Tested Testgroup
+. Vehicle Type
+. Rated Horsepower
+. of Cylinders and Rotors
+. Engine Code
+. Tested Transmission Type Code
+. Tested Transmission Type
+. #of Gears
+. Transmission Lockup?
+. Drive System Code
 Drive System Description
 Transmission Overdrive Code
 Transmission Overdrive Desc
