@@ -61,7 +61,7 @@ Python Jupyter Notebook
 17. Transmission Lockup?
 18. Drive System Code
 19. Drive System Description
-20.Transmission Overdrive Code
+20. Transmission Overdrive Code
 21. Transmission Overdrive Desc
 22. Equivalent Test Weight (lbs.)
 23. Axle Ratio
@@ -79,7 +79,7 @@ Python Jupyter Notebook
 35. Test Procedure Description
 36. Test Fuel Type Cd
 37. Test Fuel Type Description
-38.Test Category
+38. Test Category
 39. THC (g/mi)
 40. CO (g/mi)
 41. CO2 (g/mi)
@@ -97,7 +97,7 @@ Python Jupyter Notebook
 53. DT-Absolute Speed Change Ratg
 54. DT-Energy Economy Rating
 55. Target Coef A (lbf)
-56.Target Coef B (lbf/mph)
+56. Target Coef B (lbf/mph)
 57. Target Coef C (lbf/mph^2)
 58. Set Coef A (lbf)
 59. Set Coef B (lbf/mph)
