@@ -12,13 +12,14 @@ We use 2010 and 2012 datasets. DOE Fuel Economy Data:
 https://www.fueleconomy.gov/feg/download.shtml/
 
 # Contents in the code file 'Datalytics_fuel_economy_code_file.ipnyb' :
-. Knowing the data attributes
-. Data Preprocessing
-. Data Visualization
-. Training and Testing Data
-. Developing the model
-. Prediction
-. Conclusions
+1. Knowing the data attributes
+2. Data Preprocessing
+3. Data Visualization
+4. Training and Testing Data
+5. Developing the model
+6. Prediction
+7. Conclusions
+
 # Data :
 Folder containing all the datasets before and after cleaning and updation.
 
@@ -52,7 +53,7 @@ Python Jupyter Notebook
 9. Actual Tested Testgroup
 10. Vehicle Type
 11. Rated Horsepower
-12. of Cylinders and Rotors
+12. #of Cylinders and Rotors
 13. Engine Code
 14. Tested Transmission Type Code
 15. Tested Transmission Type
