@@ -1,8 +1,8 @@
 # Data_Analytics_Project
 College project
 
-DATA ANALYSIS WITH FUEL ECONOMY DATASET
-Dataset:
+# DATA ANALYSIS WITH FUEL ECONOMY DATASET
+# Dataset:
 EPA Fuel Economy Testing:
 
 https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy
@@ -11,7 +11,7 @@ We use 2010 and 2012 datasets. DOE Fuel Economy Data:
 
 https://www.fueleconomy.gov/feg/download.shtml/
 
-Contents in the code file 'Datalytics_fuel_economy_code_file.ipnyb' :
+# Contents in the code file 'Datalytics_fuel_economy_code_file.ipnyb' :
 Knowing the data attributes
 Data Preprocessing
 Data Visualization
@@ -19,13 +19,13 @@ Training and Testing Data
 Developing the model
 Prediction
 Conclusions
-Data :
+# Data :
 Folder containing all the datasets before and after cleaning and updation.
 
-Code:
+# Code:
 Python Jupyter Notebook
 
-Libraries used:
+# Libraries used:
 Numpy
 Seaborn
 Matplotlib
@@ -39,7 +39,8 @@ from sklearn.linear_model : LinearRegression
 from sklearn.datasets : make_regression
 from sklearn.ensemble : RandomForestRegressor
 from sklearn.neighbors : KNeighborsRegressor
-Attributes in the datasets:
+
+# Attributes in the datasets:
 Model Year
 Vehicle Manufacturer Name
 Veh Mfr Code
