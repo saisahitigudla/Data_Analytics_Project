@@ -26,8 +26,8 @@ Folder containing all the datasets before and after cleaning and updation.
 Python Jupyter Notebook
 
 # Libraries used:
-. Numpy
-. Seaborn
+1. Numpy
+2. Seaborn
 . Matplotlib
 . Pandas
 . Pyplot
